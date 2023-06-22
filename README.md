@@ -1,39 +1,23 @@
-<h1 align="left">Hi👋, I'm Carlos Almeida</h1>
 
-- 🔥 Programming student
+### Olá! Eu sou Carlos Henique 👋
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carloos_1207/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carloos_1207)
 
-- 🔭 Currently studying at IFPR.
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAlmeida1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlmeida1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+### Tecnolgias que eu uso:
+<div style='display: inline_block'><br/>
+<img align='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+<img align='center' alt='css3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
+<img align='center' alt='javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
+<img align='center' alt='node' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
+</div>
+<br/>
 
--  🌱 I’m currently learning **Typescript, Node.Js**
-
-
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br><br>
-
-## Contact
-
-<p align="left" style="background:yellow">
-
-<a href="https://twitter.com/carloos_1207" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Carlos Almeida-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-
-<a href="https://www.instagram.com/carloos_1207/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Carlos Almeida-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-
-</p>
-
+### Estou aprendendo:
+<div style='display: inline_block'>
+<img align='center' alt="React" src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+<img align='center' alt="TypeScript" src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
+</div>
