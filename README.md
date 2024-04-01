@@ -22,9 +22,14 @@
 <div align="start">
   <h3>🛠️ Technologies & Tools</h3>
 
+  <p><strong>Languages</strong></p>
+  <div>
+   <img src="https://skillicons.dev/icons?i=js,ts" />
+  </div>
+
   <p><strong>Frontend</strong></p>
   <div>
-   <img src="https://skillicons.dev/icons?i=react,styledcomponents,tailwind,html,css,js,ts,vite" />
+   <img src="https://skillicons.dev/icons?i=react,styledcomponents,tailwind,html,css,vite" />
   </div>
   <p><strong>Backend</strong></p>
   <div>
