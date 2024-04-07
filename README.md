@@ -28,10 +28,17 @@
   <p><strong>Frontend</strong></p>
   <div>
    <img src="https://skillicons.dev/icons?i=react,styledcomponents,tailwind,html,css,vite" />
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/shadcnui.svg" width="50"></a>
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/materialui-dark.svg" width="50"></a>
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/radixui-dark.svg" width="50"></a>
+   
+   
   </div>
   <p><strong>Backend</strong></p>
   <div>
    <img src="https://skillicons.dev/icons?i=nodejs,express,vitest,prisma" />
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/knexjs-dark.svg" width="50"></a>
+   
   </div>
 
   <p><strong>Database</strong></p>
