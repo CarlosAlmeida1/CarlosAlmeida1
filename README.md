@@ -15,7 +15,7 @@
 
 <div align="center">
   <div>
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,mysql,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,spring,nodejs,react,mysql,docker,postman" />
    </div>
 
    <br/>
